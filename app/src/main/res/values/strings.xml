@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="title">Contatos</string>
+    <string name="error">Ocorreu um erro. Tente novamente.</string>
+</resources>
